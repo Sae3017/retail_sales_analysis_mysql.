@@ -3,11 +3,11 @@ Retail Sales Analysis project using MySQL to analyze customer behavior, product 
 
 Retail Sales Analysis Using MySQL
 
-1. Project Overview
+**1. Project Overview**
 
 This project focuses on analyzing retail sales data using MySQL. The objective is to explore customer purchasing behavior, product performance, monthly sales trends, and regional revenue.
 
-2. Project Objectives
+**2. Project Objectives**
 
 - Analyze total retail revenue.
 - Identify the highest-selling products.
@@ -17,7 +17,7 @@ This project focuses on analyzing retail sales data using MySQL. The objective i
 - Identify the highest-revenue regions.
 - Generate meaningful business insights using SQL.
 
-3. Dataset Used
+**3. Dataset Used**
 
 The project contains four relational tables:
 
@@ -27,13 +27,13 @@ Products| Product information| 10
 Orders| Order information| 15
 Order_Details| Product and quantity details| 25
 
-4. Tools Used
+**4. Tools Used**
 
 - MySQL
 - MySQL Workbench
 - GitHub
 
-5. SQL Concepts Used
+**5. SQL Concepts Used**
 
 - SELECT
 - WHERE
@@ -52,7 +52,7 @@ Order_Details| Product and quantity details| 25
 - Views
 - Indexes
 
-6. Business Questions
+**6. Business Questions**
 
 1. What is the total revenue?
 2. How many orders were placed?
@@ -65,7 +65,7 @@ Order_Details| Product and quantity details| 25
 9. Which region generates the highest revenue?
 10. What are the top three products?
 
-7. Project Process
+**7. Project Process**
 
 1. Created the database.
 2. Created four relational tables.
@@ -81,7 +81,7 @@ Order_Details| Product and quantity details| 25
 12. Answered business questions.
 13. Generated final business insights.
 
-8. Key Business Insights
+**8. Key Business Insights**
 
 - Total Revenue: ₹629,800
 - Total Orders: 15
@@ -94,7 +94,7 @@ Order_Details| Product and quantity details| 25
 - Highest Revenue Region: South
 - Highest Revenue Month: May 2026
 
-9. Final Conclusion
+**9. Final Conclusion**
 
 This project demonstrates the use of MySQL for retail sales analysis. By applying SQL queries, joins, aggregate functions, CTEs, and window functions, meaningful insights were extracted from the dataset.
 
