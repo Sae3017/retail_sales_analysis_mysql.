@@ -83,16 +83,16 @@ Order_Details| Product and quantity details| 25
 
 **8. Key Business Insights**
 
-- Total Revenue: ₹629,800
-- Total Orders: 15
-- Total Quantity Sold: 55
-- Total Customers: 10
-- Total Products: 10
-- Average Order Value: ₹41,986.67
-- Highest Revenue Product: Laptop
-- Highest Revenue Category: Electronics
-- Highest Revenue Region: South
-- Highest Revenue Month: May 2026
+- **Total Revenue: ₹629,800**
+- **Total Orders: 15**
+- **Total Quantity Sold: 55**
+- **Total Customers: 10**
+- **Total Products: 10**
+- **Average Order Value: ₹41,986.67**
+- **Highest Revenue Product: Laptop**
+- **Highest Revenue Category: Electronics**
+- **Highest Revenue Region: South**
+- **Highest Revenue Month: May 2026**
 
 **9. Final Conclusion**
 
